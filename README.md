@@ -1,6 +1,6 @@
 # Spy
 This software creates a screenshot around the cursor every time the user clicks and saves all images highly compressed.  
-By default, the files are saved under `~/spy/yyyy-mm-dd/hh-mm-ss-ffff`
+By default, the files are saved under `~/spy/yyyy-mm-dd/hh-mm-ss-ffff.jpg`
 
 # Installation
 1. Extract this repository into any folder.
