@@ -21,5 +21,8 @@ image_quality = 20 # 0 - 100
 directory_name = 'spy'
 ```
 
+# Notice
+This software is not intended for malicious purposes.
+
 # License
 Copying and distribution of this file, with or without modification, are permitted in any medium provided you do not contact the author about the file or any problems you are having with the file.
